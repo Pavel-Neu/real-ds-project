@@ -3,7 +3,7 @@
 ## Оглавление
 1. [Описание проекта](https://github.com/Pavel-Neu/real-ds-project/blob/master/README.md#Описание-проекта)
 2. [Описание данных](https://github.com/Pavel-Neu/real-ds-project/blob/master/README.md#Описание-данных)
-3. [Зависимости](https://github.com/Pavel-Neu/real-ds-project/blob/master/README.md#Зависимости)
+3. [Используемые зависимости](https://github.com/Pavel-Neu/real-ds-project/blob/master/README.md#Используемые-зависимости)
 4. [Установка проекта](https://github.com/Pavel-Neu/real-ds-project/blob/master/README.md#Установка-проекта)
 5. [Использование проекта](https://github.com/Pavel-Neu/real-ds-project/blob/master/README.md#Использование-проекта)
 6. [Выводы](https://github.com/Pavel-Neu/real-ds-project/blob/master/README.md#Выводы)
@@ -50,7 +50,7 @@ git clone https://github.com/Pavel-Neu/real-ds-project.git
 
 :arrow_up:[к оглавлению](https://github.com/Pavel-Neu/real-ds-project/blob/master/README.md#Оглавление)
 
-## Использование
+## Использование проекта
 Вся информация о работе представлена в jupyter-ноутбуке Project-1._data_analysis.ipynb.
 
 :arrow_up:[к оглавлению](https://github.com/Pavel-Neu/real-ds-project/blob/master/README.md#Оглавление)
