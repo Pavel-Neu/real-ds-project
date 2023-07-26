@@ -1,12 +1,12 @@
 
 # <center> Анализ резюме из HeadHunter </center>
 ## Оглавление
-1. [Описание проекта](#Описание-проекта)
-2. [Описание данных](#Описание-данных)
-3. [Зависимости](#Зависимости)
-4. [Установка проекта](#Установка-проекта)
-5. [Использование проекта](#Использование-проекта)
-6. [Выводы](Использование-проекта)
+1. [Описание проекта](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Описание-проекта)
+2. [Описание данных](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Описание-данных)
+3. [Зависимости](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Зависимости)
+4. [Установка проекта](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Установка-проекта)
+5. [Использование проекта](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Использование-проекта)
+6. [Выводы](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Выводы)
 
 ## Описание проекта
 
@@ -23,11 +23,14 @@
 * [plotly](./plotly) - папка с графиками, необходимыми для проекта
 * [Project-1._data_analysis.ipynb](./Project-1._data_analysis.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задач анализа и очистки данных
 
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Оглавление)
 
 ## Описание данных
 В этом проекте используются база данных с резюме, выгруженная с сайта поиска вакансий *hh.ru* [dst-3.0_16_1_hh_database.csv](https://drive.google.com/file/d/1se0EGX43NrOCXuW8ZCGjgrTeWVc6BwBs/view?usp=sharing) и данные о курсе валют за период с 29.12.2017 по 05.12.2019 годы [ExchangeRates.csv](https://drive.google.com/file/d/1Y72jHgpPvT2O9EK5TwziG4Arp6jqfJDD/view?usp=sharing).
 
 Исходный датасет представляет собой набор данных из таблицы с информацией о соискателях вакансий на сайте компании *HeadHunter*, а также таблица, в которой содержится информация о курсе валют за период с 29.12.2017 по 05.12.2019 годы.
+
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Оглавление)
 
 ## Используемые зависимости
 * Python (3.11.4):
@@ -37,15 +40,23 @@
     * [seaborn (0.12.2)](https://seaborn.pydata.org)
     * [plotly (5.15.0)](https://plotly.com/python/)
 
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Оглавление)
+
 ## Установка проекта
 
 ```
-git clone https://github.com/SkillfactoryDS/DataCleaningProject
+git clone https://github.com/Pavel-Neu/real-ds-project
 ```
+
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Оглавление)
 
 ## Использование
 Вся информация о работе представлена в jupyter-ноутбуке Project-1._data_analysis.ipynb.
 
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Оглавление)
+
 ## Выводы
 
-В данной работе, с помощью анализа данных удалось выявить выбросы, дубликаты и очистить от них датасет. Также некоторые данные были преобразованы для более удобной работы с ними, а пустые значения были заменены медианным. Теперь датасет готов к дальнейшей обработке и построению модели. 
+В данной работе, с помощью анализа данных удалось выявить выбросы, дубликаты и очистить от них датасет. Также некоторые данные были преобразованы для более удобной работы с ними, а пустые значения были заменены медианным. Теперь датасет готов к дальнейшей обработке и построению модели.
+
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Оглавление)
