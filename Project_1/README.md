@@ -56,7 +56,6 @@ git clone https://github.com/Pavel-Neu/real-ds-project
 :arrow_up:[к оглавлению](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Оглавление)
 
 ## Выводы
-
 В данной работе, с помощью анализа данных удалось выявить выбросы, дубликаты и очистить от них датасет. Также некоторые данные были преобразованы для более удобной работы с ними, а пустые значения были заменены медианным. Теперь датасет готов к дальнейшей обработке и построению модели.
 
 :arrow_up:[к оглавлению](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/README.md#Оглавление)
