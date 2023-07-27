@@ -19,9 +19,9 @@
 * Очистка данных.
 
 **О структуре проекта:**
-* [data](./data) - папка с исходными табличными данными
-* [plotly](./plotly) - папка с графиками, необходимыми для проекта
-* [Project-1._data_analysis.ipynb](./Project-1._data_analysis.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задач анализа и очистки данных
+* [data](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/.gitignore) - папка с исходными табличными данными
+* [plotly](https://github.com/Pavel-Neu/real-ds-project/tree/master/Project_1/plotly) - папка с графиками, необходимыми для проекта
+* [Project-1._data_analysis.ipynb](https://github.com/Pavel-Neu/real-ds-project/blob/master/Project_1/Project-1._data_analysis.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задач анализа и очистки данных
 
 :arrow_up:[к оглавлению](https://github.com/Pavel-Neu/real-ds-project/blob/master/README.md#Оглавление)
 
